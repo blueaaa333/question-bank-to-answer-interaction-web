@@ -34,6 +34,7 @@ quiz-web-builder/
   SKILL.md                         技能说明与质量要求
   assets/quiz-template.html         无题库数据的网页模板
   scripts/probe_docx.py             Word 结构与格式标记探查
+  scripts/validate_skill_package.py 发布范围检查
   references/docx-structure-parsing.md
                                    解析模式、去重和常见问题
 ```
